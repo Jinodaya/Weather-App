@@ -1,0 +1,6 @@
+{
+  "name": "Clearcast",
+  "description": "A fast, minimalist weather forecast application with live local conditions, 24-hour temperature curves, and 7-day outlooks.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
